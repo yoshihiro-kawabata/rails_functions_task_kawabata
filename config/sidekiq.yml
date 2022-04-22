@@ -1,3 +1,4 @@
 :queues:
   - default
   - async_log
+  - mailers
